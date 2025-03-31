@@ -49,13 +49,14 @@ npm start
 ## ⚙ Configuration
 ```sh
 ## Dependencies:
-{
-  "express": "^4.19.2",
-  "mongoose": "^8.5.1",
-  "jsonwebtoken": "^9.0.2",
-  "bcrypt": "^5.1.1",
-  "socket.io": "^4.7.2",
-  "cors": "^2.8.5"
+ {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
 }
 ```
 
